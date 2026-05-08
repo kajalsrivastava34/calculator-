@@ -1,2 +1,2 @@
 # calculator-
-This calculator is mini project of python 
+This is my mini project which is created with the help of python 
